@@ -3,3 +3,6 @@
 Naleśniki
 <li> pusta</li>
 <li> maka<mleko> 
+
+<salatka>
+<lista salatek>
