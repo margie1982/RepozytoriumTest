@@ -1,4 +1,2 @@
 1. jablko
 2. melon
-<li> brzoskwinie</li>
-<li> jabloka szt 15</li>
